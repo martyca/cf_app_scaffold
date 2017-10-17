@@ -1,0 +1,4 @@
+applications:
+- name: basic-app
+  memory: 32M
+  instances: 1
